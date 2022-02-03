@@ -1,0 +1,7 @@
+*__pycache__/
+*/data/
+*.DS_STORE
+*venv/
+fawm22.egg-info
+Audacity
+*.wav
